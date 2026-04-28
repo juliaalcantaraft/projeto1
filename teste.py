@@ -5,7 +5,7 @@ st.write("Esse é o meu texto")
 
 nome = st.text_input('Digite o seu nome')
 if nome:
-  st.write(nome, 'é um cara legal!')
+  st.write(nome, 'é uma menina legal!')
 
 
 
